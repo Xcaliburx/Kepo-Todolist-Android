@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FinalProjectAndroid</string>
+    <string name="desc">Make stalking easier!</string>
+    <string name="name">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome">Welcome,  </string>
+    <string name="error">Error</string>
+    <string name="user_not_found">User not found</string>
+    <string name="ok">OK</string>
+    <string name="my_todo">My Todo</string>
+    <string name="search_todo">Search Todo</string>
+    <string name="search_user">Search User</string>
+    <string name="profile">Profile</string>
+    <string name="u00a9_2020_by_mobile_team">© 2020 by Mobile Team</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout</string>
+    <string name="here_all_your_todos">Here all your todos!</string>
+    <string name="last_edited">Last Edited :</string>
+    <string name="plus">+</string>
+    <string name="no_data">No Data</string>
+    <string name="create_todo">Create Todo</string>
+    <string name="your_todo_will_be_visible_to_others">Your todo will be visible to others</string>
+    <string name="check">✓</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="max_num">/100</string>
+    <string name="def_value">0</string>
+    <string name="by_user">by user</string>
+    <string name="result_for">Result for</string>
+    <string name="temp_name">victor</string>
+    <string name="detail_todo">Detail Todo</string>
+    <string name="last_edited_">Last Edited</string>
+    <string name="by_todo">by todo</string>
+    <string name="todos">Todos:</string>
+</resources>
